@@ -1,5 +1,5 @@
 _repo: The-Surprise-Book_56170
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Beard, Alice
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1949
     gutenberg_agent_id: '43287'
     url: http://www.gutenberg.org/2009/agents/43287
+covers:
+- cover_type: archival
+  image_path: 56170-h/images/cover.jpg
 creator:
   author:
     agent_name: Beard, Patten
     gutenberg_agent_id: '45443'
     url: http://www.gutenberg.org/2009/agents/45443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56170#The-Surprise-Book
 gutenberg_issued: '2017-12-12'
 gutenberg_type: Text
 identifiers:
